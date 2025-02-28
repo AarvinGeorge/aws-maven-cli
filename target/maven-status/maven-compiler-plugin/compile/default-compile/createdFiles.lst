@@ -1,0 +1,8 @@
+edu/cmu/cs/cloud/aws/model/TagManager.class
+edu/cmu/cs/cloud/aws/model/EC2Manager.class
+edu/cmu/cs/cloud/aws/model/DockerManager.class
+edu/cmu/cs/cloud/aws/model/AWSConfigLoader.class
+edu/cmu/cs/cloud/aws/model/SecurityGroupManager.class
+edu/cmu/cs/cloud/aws/model/InputManager.class
+edu/cmu/cs/cloud/aws/model/SSHTunnelManager.class
+edu/cmu/cs/cloud/aws/controller/MainMenu.class

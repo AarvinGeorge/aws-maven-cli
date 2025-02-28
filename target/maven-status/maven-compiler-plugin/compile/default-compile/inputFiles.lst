@@ -1,0 +1,8 @@
+/Users/aarvingeorge/Documents/Climb/CMU/Sem-2/Cloud-Computing/Clouds/Projects/team-project/phase-1/aws_java_api/src/main/java/edu/cmu/cs/cloud/aws/controller/MainMenu.java
+/Users/aarvingeorge/Documents/Climb/CMU/Sem-2/Cloud-Computing/Clouds/Projects/team-project/phase-1/aws_java_api/src/main/java/edu/cmu/cs/cloud/aws/model/AWSConfigLoader.java
+/Users/aarvingeorge/Documents/Climb/CMU/Sem-2/Cloud-Computing/Clouds/Projects/team-project/phase-1/aws_java_api/src/main/java/edu/cmu/cs/cloud/aws/model/DockerManager.java
+/Users/aarvingeorge/Documents/Climb/CMU/Sem-2/Cloud-Computing/Clouds/Projects/team-project/phase-1/aws_java_api/src/main/java/edu/cmu/cs/cloud/aws/model/EC2Manager.java
+/Users/aarvingeorge/Documents/Climb/CMU/Sem-2/Cloud-Computing/Clouds/Projects/team-project/phase-1/aws_java_api/src/main/java/edu/cmu/cs/cloud/aws/model/InputManager.java
+/Users/aarvingeorge/Documents/Climb/CMU/Sem-2/Cloud-Computing/Clouds/Projects/team-project/phase-1/aws_java_api/src/main/java/edu/cmu/cs/cloud/aws/model/SSHTunnelManager.java
+/Users/aarvingeorge/Documents/Climb/CMU/Sem-2/Cloud-Computing/Clouds/Projects/team-project/phase-1/aws_java_api/src/main/java/edu/cmu/cs/cloud/aws/model/SecurityGroupManager.java
+/Users/aarvingeorge/Documents/Climb/CMU/Sem-2/Cloud-Computing/Clouds/Projects/team-project/phase-1/aws_java_api/src/main/java/edu/cmu/cs/cloud/aws/model/TagManager.java
