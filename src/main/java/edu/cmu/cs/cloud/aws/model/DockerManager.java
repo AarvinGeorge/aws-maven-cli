@@ -14,8 +14,8 @@ public class DockerManager {
         }
 
         // Prompt user for root directory
-        String rootDirectory = InputManager.getInput("Enter the path of the application root directory (Dockerfile should be inside docker/): ").trim();
-        File dockerfile = new File(rootDirectory, "docker/Dockerfile");
+        String rootDirectory = InputManager.getInput("Enter the path of the application root directory (Dockerfile should be inside docker/): ");
+        File dockerfile = new File(rootDirectory, "/docker/Dockerfile");
 
         // Validate the Dockerfile exists
         if (!dockerfile.exists()) {
